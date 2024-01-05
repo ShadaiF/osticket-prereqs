@@ -33,8 +33,7 @@ I created a Resource Group(RG-osTicket), as well as a Windows 10 VM with 4 virtu
 <br />
 
 <p>
-
-
+<img src="https://i.imgur.com/bGPk2a4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Pre-installation, I enabled IIS in Windows with CGI and common HTTP features. Then I installed PHP Manager for IIS and Rewrite Module. I created the directory C:\PHP, as well as MySql. Finished with Install of osTicket.
