@@ -41,8 +41,7 @@ Pre-installation, I enabled IIS in Windows with CGI and common HTTP features. Th
 <br />
 
 <p>
-
-
+<img src="https://i.imgur.com/EXr7iBl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Loaded osTicket and verified a successful login.
