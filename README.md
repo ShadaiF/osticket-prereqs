@@ -28,11 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install osTicket on virtual machine 
 
 <h2>Installation Steps</h2>
-![image](https://github.com/ShadaiF/osticket-prereqs/assets/153692850/ac632ba8-39f5-437d-a326-196a997b2886)
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/ShadaiF/osticket-prereqs/assets/153692850/67985d50-8685-4d7e-a249-b292c0e9ac2c)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
