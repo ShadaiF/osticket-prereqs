@@ -32,18 +32,34 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/bGPk2a4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Step 2: <b> Installion </b> </p>
+<img src="https://i.imgur.com/cq3uPKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Pre-installation, I enabled IIS in Windows with CGI and common HTTP features. Then I installed PHP Manager for IIS and Rewrite Module. I created the directory C:\PHP, as well as MySql. Finished with Install of osTicket.
+1. Connect to the VM via Remote Desktop Connection application on your PC</p>
+2. Login with  username and password you created in step 1</p>
+3. While in the VM, open Microsoft Edge or Chrome and open this link that includes the installation files for osTicket: <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">(https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) </a> </p>
+4. Next open Control panel > Programs > Programs and Features > turn windows features on or off > then check internet information services > expand to world wide web services > application development features> check "CGI" and under "Common HTTP features" under world wide web services make sure everything is checked</p>
+- To make sure it works, go to the edge browser to 127.0.0.1 in the url then it will load the windows Internet Information Services (IIS) page</p>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/EXr7iBl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Steps 3: <b>osTicket Installation Files</b>
+<img src="https://i.imgur.com/7A6iquq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Loaded osTicket and verified a successful login.
+1.  Open this link that includes the installation files for osTicket: <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">(https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) </a> </p>
+2. Download "PHPManagerforIIS" then install to VM</p>
+3. Download "rewrite" then install to VM</p>
+4. Go to files under the C: folder create a new folder called PHP</p>
+5. Download PHP.zip and unzip in the created folder called PHP</p>
+6. Download VC_redist and install</p>
+7. Download MySQL and install</p>
 </p>
 <br />
+
+
+
+
+
+
