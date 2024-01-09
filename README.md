@@ -86,5 +86,16 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 </p>
 <br />
 
-
+<p> Steps 6: <b>Extention</b></p>
+<img src="https://i.imgur.com/usAABmr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+1. Expand the sites folder on the top left > expand until you see osTicket folder > hit browse link on the right hand side </p>
+2. Go back to IIS > PHP manager > click on Enable or Disable Extensions</p>
+3. Enable "php_imap.dll"</p>
+4. Enable "php_intl.dll"</p>
+5. Enable "php_opcache.dll"</p>
+6. Go back to browser and refresh until some appear green</p>
+</p>
+<br />
 
