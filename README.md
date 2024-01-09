@@ -99,3 +99,18 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 </p>
 <br />
 
+<p> Step 7: <b> Create Virtual Machine in Azure </b> </p>
+
+<img src="https://i.imgur.com/C12gU9C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+1. Open File Explorer > C: > inetpub > wwwroot > osTicket and rename file from <b>ost-sampleconfig</b> to <b>ost-config</b> </p>
+2. Right click on the ost-config file and click Properties > Security > Advanced </p>
+4. Permissions > disable inheritance </p>
+5. Add and select a principal then type "Everyone" </p>
+6. Check the name and add then apply and close </p>
+7. Basic permissions as full control </p>
+</p>
+<br />
+
+
