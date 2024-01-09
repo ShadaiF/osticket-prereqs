@@ -21,7 +21,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <p> Step 1: <b> Create Cirtual Machine in Azure </b> </p>
 
-<img src="https://i.imgur.com/gfFwjXl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/gfFwjXl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 1. Create a new resource group </p>
