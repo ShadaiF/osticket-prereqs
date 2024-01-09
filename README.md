@@ -126,7 +126,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 7. Right click on "unnamed" at the top > create database</p>
 8. Name it "osTicket"</p>
 9. Go back to browser click install now after filling everything in, MySQL Database: osTicket</p>
-10. Go to c: inetpub wwwroot osTicket then right click on the setup folder and delete it</p>
+10. Go to c: > inetpub > wwwroot > osTicket > right click on the setup folder and delete it</p>
 11. Go into the include folder and edit the ost-config php and properties then under security go to advanced and change to read and execute only</p>
 12.  <a href="http://localhost/osTicket/"> Admin Access osTicket </a></p>
 13. <a href="http://localhost/osTicket/"> End Users osTicket URL </a></p>
