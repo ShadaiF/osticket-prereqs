@@ -19,11 +19,16 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/fMWifzc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Step 1: <b> Create Cirtual Machine in Azure </b> </p>
+
+<img src="https://i.imgur.com/gfFwjXl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-I created a Resource Group(RG-osTicket), as well as a Windows 10 VM with 4 virtual CPUs. I then located VM-1's public IP address and I copied it. I then opened the Remote Desktop application on my pc to login to the virtual machine.
+1. Create a new resource group </p>
+2. Create a Windows 10 Virtual Machine (VM) with 4 virtual CPUs as the size </p>
+3. Remember to take notes of the username and password you create </p>
+4. Under the network tab, allow it to create a new virtual network (vnet) </p>
+5. Click review and create! </p>
 </p>
 <br />
 
