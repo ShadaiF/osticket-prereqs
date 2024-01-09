@@ -112,5 +112,24 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 </p>
 <br />
 
+<p> Step 8: <b> osTicket Browser Setup </b> </p>
 
+<img src="https://i.imgur.com/yPngR72.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+1. Click back over to browser and contine with the osTicket setup</p>
+2. After saving the usernames and passwords to a note pad</p>
+3. Download the MYSQL database exe "HediSQL"</p>
+4. Run HediSQL and install </p>
+5. Launch > click new on the bottom left</p>
+6. Username as <b>root</b> and password as <b>Password1</b></p>
+7. Right click on "unnamed" at the top > create database</p>
+8. Name it "osTicket"</p>
+9. Go back to browser click install now after filling everything in, MySQL Database: osTicket</p>
+10. Go to c: inetpub wwwroot osTicket then right click on the setup folder and delete it</p>
+11. Go into the include folder and edit the ost-config php and properties then under security go to advanced and change to read and execute only</p>
+12.  <a href="http://localhost/osTicket/"> Admin Access osTicket </a></p>
+13. <a href="http://localhost/osTicket/"> End Users osTicket URL </a></p>
+</p>
+<br />
 
