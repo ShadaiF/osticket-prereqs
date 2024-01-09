@@ -38,7 +38,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 <p>
 1. Connect to the VM via Remote Desktop Connection application on your PC</p>
 2. Login with  username and password you created in step 1</p>
-3. While in the VM, open Microsoft Edge or Chrome and open this link that includes the installation files for osTicket: <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">(https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) </a> </p>
+3. While in the VM, open <b>Microsoft Edge</b> or <b>Chrome</b> and click this link that includes the <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Installation Files  </a> for osTicket. </p>
 4. Next open Control panel > Programs > Programs and Features > turn windows features on or off > then check internet information services > expand to world wide web services > application development features> check "CGI" and under "Common HTTP features" under world wide web services make sure everything is checked</p>
 - To make sure it works, go to the edge browser to 127.0.0.1 in the url then it will load the windows Internet Information Services (IIS) page</p>
 </p>
@@ -48,7 +48,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 <img src="https://i.imgur.com/7A6iquq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-1.  Open this link that includes the installation files for osTicket: <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">(https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) </a> </p>
+1.  Open this link that includes the <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">  Installation Files </a> for osTicket. </p>
 2. Download "PHPManagerforIIS" then install to VM</p>
 3. Download "rewrite" then install to VM</p>
 4. Go to files under the C: folder create a new folder called PHP</p>
