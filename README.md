@@ -72,7 +72,19 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 </p>
 <br />
 
-
+<p> Steps 5: <b>MySQL and PHP Manager</b> </p>
+<img src="https://i.imgur.com/GG3k1RC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/0LO7bM5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p> 
+<p>
+1. Launch SQL > Standard Config  </p>
+2. Write down username: <b>root</b> and password: <b>Password1</b></p>
+3. Click Execute and Finish </p>
+4. Launch IIS as admin > open PHP Manager</p>
+5. Register new PHP version and find the <b>C:</b> in the PHP folder in the new window </p>
+6. Click PHP-CGI</p>
+<b>* REMINDER * Hit restart on the top right and refresh server </b></p>
+</p>
+<br />
 
 
 
