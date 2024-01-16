@@ -31,7 +31,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 </p>
 <br />
 
-<p> Step 2: <b> Installion </b> </p>
+<p> Step 2: <b> Installation </b> </p>
 <img src="https://i.imgur.com/cq3uPKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
